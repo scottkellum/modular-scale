@@ -1,4 +1,1 @@
-modular-scale
-=============
-
-modular-scale
+# [modular-scale has moved](https://github.com/Team-Sass/modular-scale)
